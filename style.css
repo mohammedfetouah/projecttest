@@ -1,3 +1,14 @@
+@font-face {
+    font-family:'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: justify;
+}
+.autreparagraphe {
+    color: cornflowerblue;
+}
+/*
 body {
     background: silver;
 }
@@ -12,3 +23,4 @@ a:visited {
 .autreparagraphe {
     clear: right;
 }
+*/
