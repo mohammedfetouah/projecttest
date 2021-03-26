@@ -1,0 +1,14 @@
+body {
+    background: silver;
+}
+h1 {
+    border: 3px blue solid;
+    border-radius: 20px / 10px;
+    box-shadow: 6px 6px 6px black;
+}
+a:visited {
+    color: red;
+}
+.autreparagraphe {
+    clear: right;
+}
